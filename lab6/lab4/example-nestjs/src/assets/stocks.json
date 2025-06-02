@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "src": "./images/samsung.jpg",
+        "title": "Смартфон Samsung Galaxy",
+        "text": "80,000 руб.",
+        "description": "Мощный смартфон с AMOLED-дисплеем и тройной камерой."
+    },
+    {
+        "id": 2,
+        "src": "./images/notebook.jpg",
+        "title": "Ноутбук Apple Macbook Pro", 
+        "text": "130,000 руб.",
+        "description": "Универсальный ноутбук для работы и развлечений."
+    },
+    {
+        "id": 3,
+        "src": "./images/headphones.jpg",
+        "title": "Беспроводные наушники Sony",
+        "text": "13,000 руб.",
+        "description": "Наушники с шумоподавлением и высоким качеством звука."
+    },
+    {
+        "id": 4,
+        "src": "./images/watch.jpg",
+        "title": "Смарт-часы Apple Watch",
+        "text": "30,000 руб.",
+        "description": "Умные часы с множеством функций для здоровья и фитнеса."
+    },
+    {
+        "id": 5,
+        "src": "https://cdn.bigam.ru/iblock/4e6/v7a0q3a4ruw8srho879h0j7c3znrbls3/1073160.jpg",
+        "title": "Шуроповёрт Makita",
+        "text": "10,000 руб.",
+        "description": "Шуроповёрт Makita с новым аккамулятором."
+    },
+    {
+        "id": 6,
+        "src": "https://minsk-lada.by/upload/iblock/dad/1535540085_01_new_lada_granta_se_studio.jpg",
+        "title": "Lada Granta(2023)",
+        "text": "900,000 руб.",
+        "description": "Катофалк S класса."
+    },
+    {
+        "id": 7,
+        "src": "https://img.mvideo.ru/Pdb/20028478b.jpg",
+        "title": "Пылесос LG",
+        "text": "3,000 руб.",
+        "description": "Пылесос 1200 Ватт."
+    },
+    {
+        "id": 8,
+        "src": "https://www.kubaninstrument.ru/uploads/cache/product/orig/600-46093038527.jpg.webp",
+        "title": "Перфоратор Makita",
+        "text": "12,000 руб.",
+        "description": "Перфоратор почти новый."
+    },
+    {
+        "id": 9,
+        "src": "./images/ps.jpg",
+        "title": "Игровая консоль PlayStation 5",
+        "text": "60,000 руб.",
+        "description": "Новая игровая консоль с поддержкой 4K-гейминга."
+    },
+    {
+        "id": 10,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuk6d4S4RGtMMZdO7rvuhhvK1QhAWV1cP8ZA&s",
+        "title": "Iphone 15 ",
+        "text": "42,000 руб.",
+        "description": "Iphone 15 на 128гб. 82% аккум."
+    },
+    {
+        "id": 11,
+        "src": "https://taxui.ru/dl/credit/1100/2-comfort/ford-mondeo-v-used-v-credit-pod-taxi.jpg",
+        "title": "Ford Mondeo 5(Рестайлинг)",
+        "text": "1,4 млн. руб.",
+        "description": "Пробег 160000 км. Двигатель менялся на 150000"
+    },
+    {
+        "id": 12,
+        "src": "https://i.postimg.cc/yxy2D6Rc/6877628551.jpg",
+        "title": "Пикми палочка",
+        "text": "150 руб.",
+        "description": "Величайшее изобретение человечества"
+    },
+    {
+        "id": 13,
+        "src": "https://goggles.su/image/catalog/hats/Cowboy/127a0005.jpg",
+        "title": "Ковбойская шляпа",
+        "text": "600 руб.",
+        "description": "Шляпа, что ещё написать."
+    }
+]
